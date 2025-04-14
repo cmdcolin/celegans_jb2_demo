@@ -248,13 +248,13 @@
         "type": "BedTabixAdapter",
         "bedGzLocation": {
           "locationType": "UriLocation",
-          "uri": "rmsk.bed.gz"
+          "uri": "https://jbrowse.org/ucsc/ce11/rmsk.bed.gz"
         },
         "index": {
           "indexType": "CSI",
           "location": {
             "locationType": "UriLocation",
-            "uri": "rmsk.bed.gz.csi"
+            "uri": "https://jbrowse.org/ucsc/ce11/rmsk.bed.gz.csi"
           }
         }
       }
