@@ -64,3 +64,7 @@ https://docs.google.com/presentation/d/1tPpwIqvQ5USPvLAuEtWmTZWCFVCizjL1BaVpTTYX
 
 Created following biocuration tutorial
 https://github.com/GMOD/2025-biocuration-tutorial
+
+Thanks to Kyle Lesack for sharing the SV calls and data resource at
+https://github.com/kyleLesack/sv_analysis_cendr_pacbio
+(https://www.biorxiv.org/content/10.1101/2025.01.07.631790v2)
