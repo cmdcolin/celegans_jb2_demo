@@ -1,8 +1,7 @@
 # celegans_jb2_demo
 
-The JBrowse 2 biocuration demo used C. elegans data
-
-This is an expanded instance loading several extra datasets including
+This is a JBrowse 2 instance for C. elegans that includes a variety of
+'population' data for exploring
 
 - 14 C. elegans PacBio assemblies (manually downloaded from NCBI
   https://www.ncbi.nlm.nih.gov/bioproject/PRJNA692613)
