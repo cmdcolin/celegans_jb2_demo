@@ -9,6 +9,10 @@ This is an expanded instance loading several extra datasets including
 - A Cactus multi-way alignment of the above
 - CaeNDR VCFs and short-read datasets for C. elegans
 
+## Live demo
+
+https://jbrowse.org/code/jb2/main/?config=/demos/ce/config.json
+
 ## Slides
 
 A short demo of different functions as a slide deck are here
