@@ -32,3 +32,8 @@ A short demo of different functions as a slide deck are here
 https://docs.google.com/presentation/d/1tPpwIqvQ5USPvLAuEtWmTZWCFVCizjL1BaVpTTYXeoM/edit?usp=sharing
 
 ![](img/1.png)
+
+## Footnote
+
+Created following biocuration tutorial
+https://github.com/GMOD/2025-biocuration-tutorial
