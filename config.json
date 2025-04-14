@@ -52081,6 +52081,9 @@
       "type": "VariantTrack",
       "trackId": "DEL-vep_per_gene-pick-no_intergenic-annotated_high_impact_SORTED",
       "name": "DEL-vep_per_gene-pick-no_intergenic-annotated_high_impact_SORTED",
+      "metadata": {
+        "source": "https://www.biorxiv.org/content/10.1101/2025.01.07.631790v2"
+      },
       "adapter": {
         "type": "VcfAdapter",
         "vcfLocation": {
@@ -52095,6 +52098,9 @@
       "type": "VariantTrack",
       "trackId": "DUP-vep_per_gene-pick-no_intergenic-annotated_high_impact_SORTED",
       "name": "DUP-vep_per_gene-pick-no_intergenic-annotated_high_impact_SORTED",
+      "metadata": {
+        "source": "https://www.biorxiv.org/content/10.1101/2025.01.07.631790v2"
+      },
       "adapter": {
         "type": "VcfAdapter",
         "vcfLocation": {
@@ -52109,6 +52115,9 @@
       "type": "VariantTrack",
       "trackId": "INV-vep_per_gene-pick-no_intergenic-annotated_high_impact_SORTED",
       "name": "INV-vep_per_gene-pick-no_intergenic-annotated_high_impact_SORTED",
+      "metadata": {
+        "source": "https://www.biorxiv.org/content/10.1101/2025.01.07.631790v2"
+      },
       "adapter": {
         "type": "VcfAdapter",
         "vcfLocation": {
