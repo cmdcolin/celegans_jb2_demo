@@ -3,6 +3,15 @@
 This is a JBrowse 2 instance for C. elegans that includes a variety of
 'population' data for exploring
 
+## Live demo
+
+This is the main branch of jbrowse
+https://jbrowse.org/code/jb2/main/?config=/demos/ce/config.json
+
+This link has thousands of tracks which turns out to be slow, if you want to try
+a beta build with a fix for that, this URL is faster
+https://jbrowse.org/code/jb2/frozen_tracks4/?config=/demos/ce/config.json
+
 ## Datasets loaded
 
 ### 14 PacBio Assemblies
@@ -10,14 +19,16 @@ This is a JBrowse 2 instance for C. elegans that includes a variety of
 I downloaded 14 C. elegans PacBio assembly FASTA files from
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA692613 and also downloaded the
 PacBio reads from the SRA and manually aligned them to ce11 using minimap2 -x
-map-pb. I also got SV calls on these PacBio reads from https://github.com/kyleLesack/sv_analysis_cendr_pacbio
+map-pb. I also got SV calls on these PacBio reads from
+https://github.com/kyleLesack/sv_analysis_cendr_pacbio
 
 ### CGC1 assembly
 
 I manually downloaded the CGC1 assembly
 (https://www.biorxiv.org/content/10.1101/2024.12.04.626850v2) from NCBI,
 concatenating entries from
-https://www.ncbi.nlm.nih.gov/nuccore?term=1246391%5BBioProject%5D to produce a single FASTA file for the assembly
+https://www.ncbi.nlm.nih.gov/nuccore?term=1246391%5BBioProject%5D to produce a
+single FASTA file for the assembly
 
 ### "Synteny tracks"
 
@@ -46,10 +57,6 @@ I loaded a number of UCSC datasets for ce11
   https://hgdownload.soe.ucsc.edu/goldenPath/ce11/multiz26way/
 - NCBI RefSeq gene annotations for ce11
 - RepeatMasker track
-
-### Live demo
-
-https://jbrowse.org/code/jb2/main/?config=/demos/ce/config.json
 
 ## Slides
 
