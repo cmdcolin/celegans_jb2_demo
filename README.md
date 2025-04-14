@@ -17,8 +17,7 @@ map-pb. I also got SV calls on these PacBio reads from https://github.com/kyleLe
 I manually downloaded the CGC1 assembly
 (https://www.biorxiv.org/content/10.1101/2024.12.04.626850v2) from NCBI,
 concatenating entries from
-https://www.ncbi.nlm.nih.gov/nuccore?term=1246391%5BBioProject%5D and
-concatenated entries into a FASTA file
+https://www.ncbi.nlm.nih.gov/nuccore?term=1246391%5BBioProject%5D to produce a single FASTA file for the assembly
 
 ### "Synteny tracks"
 
