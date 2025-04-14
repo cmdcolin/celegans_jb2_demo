@@ -58,7 +58,21 @@ A short demo of different functions as a slide deck are here
 
 https://docs.google.com/presentation/d/1tPpwIqvQ5USPvLAuEtWmTZWCFVCizjL1BaVpTTYXeoM/edit?usp=sharing
 
-![](img/1.png)
+![](img/image1.png)
+
+![](img/image2.png)
+
+![](img/image3.png)
+
+![](img/image4.png)
+
+![](img/image5.png)
+
+![](img/image6.png)
+
+![](img/image7.png)
+
+![](img/image8.png)
 
 ## Footnote
 
