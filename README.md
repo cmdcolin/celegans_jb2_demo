@@ -10,7 +10,7 @@ This is a JBrowse 2 instance for C. elegans that includes a variety of
 I downloaded 14 C. elegans PacBio assembly FASTA files from
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA692613 and also downloaded the
 PacBio reads from the SRA and manually aligned them to ce11 using minimap2 -x
-map-pb
+map-pb. I also got SV calls on these PacBio reads from https://github.com/kyleLesack/sv_analysis_cendr_pacbio
 
 ### CGC1 assembly
 
