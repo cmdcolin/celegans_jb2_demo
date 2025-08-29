@@ -80,6 +80,9 @@ https://docs.google.com/presentation/d/1tPpwIqvQ5USPvLAuEtWmTZWCFVCizjL1BaVpTTYX
 
 ![](img/image8.png)
 
+<img width="1473" height="803" alt="image" src="https://github.com/user-attachments/assets/07e6799c-2b4e-4858-ad27-9e52e817c501" />
+
+
 ## Footnote
 
 Created following biocuration tutorial
